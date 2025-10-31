@@ -1,12 +1,12 @@
-
 ---
 
-# 🎨 Color Visualization
+<div align="center">
 
-<img width="1464" height="704" alt="image" src="https://github.com/user-attachments/assets/72943477-1828-4165-b997-874a0c65282b" />
+# 🎨 **Color Visualizer**
 
+</div>
 
-A simple **React + Vite** project that allows users to dynamically change and visualize background colors in real time.
+A simple **React + Vite** project that allows users to dynamically change and visualize background colors in real time.  
 Built to demonstrate React state handling, inline styling, and Tailwind CSS integration.
 
 ---
@@ -69,7 +69,7 @@ Then open the URL shown in your terminal (usually **[http://localhost:5173](http
 
 > A simple interactive app where you can click or choose a color to change the background dynamically.
 
-*(You can replace this section with a deployment link once hosted on Netlify or GitHub Pages.)*
+<img width="1464" height="704" alt="image" src="https://github.com/user-attachments/assets/72943477-1828-4165-b997-874a0c65282b" />
 
 ---
 
@@ -92,7 +92,9 @@ Then open the URL shown in your terminal (usually **[http://localhost:5173](http
 ## 🧑‍💻 Author
 
 **Sumit Kumar**
+</br>
 [LinkedIn](https://www.linkedin.com/in/sumit-kumar2004/)
+</br>
 [GitHub Profile](https://github.com/sumitkr-2)
 ---
 
