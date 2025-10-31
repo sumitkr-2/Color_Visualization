@@ -1,29 +1,31 @@
+
 ---
 
-````markdown
 # 🎨 Color Visualization
-<img width="1464" height="705" alt="image" src="https://github.com/user-attachments/assets/e522e488-677b-426f-980e-aa10da9ee0e8" />
 
-A simple **React + Vite** project that allows users to dynamically change and visualize background colors in real time.  
+<img width="1464" height="704" alt="image" src="https://github.com/user-attachments/assets/72943477-1828-4165-b997-874a0c65282b" />
+
+
+A simple **React + Vite** project that allows users to dynamically change and visualize background colors in real time.
 Built to demonstrate React state handling, inline styling, and Tailwind CSS integration.
 
 ---
 
 ## 🚀 Features
 
-- 🌈 Live color-changing background  
-- ⚡ Built with **React + Vite** for fast performance  
-- 🎨 Styled using **Tailwind CSS**  
-- 🧠 Demonstrates React `useState` and inline `style` usage  
+* 🌈 Live color-changing background
+* ⚡ Built with **React + Vite** for fast performance
+* 🎨 Styled using **Tailwind CSS**
+* 🧠 Demonstrates React `useState` and inline `style` usage
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **React**
-- **Vite**
-- **Tailwind CSS**
-- **JavaScript (ES6+)**
+* **React**
+* **Vite**
+* **Tailwind CSS**
+* **JavaScript (ES6+)**
 
 ---
 
@@ -39,7 +41,7 @@ Color_Visualization/
 ├── vite.config.js
 ├── package.json
 └── README.md
-````
+```
 
 ---
 
@@ -92,10 +94,5 @@ Then open the URL shown in your terminal (usually **[http://localhost:5173](http
 **Sumit Kumar**
 [LinkedIn](https://www.linkedin.com/in/sumit-kumar2004/)
 [GitHub Profile](https://github.com/sumitkr-2)
-
 ---
 
-```
-
----
-```
